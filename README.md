@@ -108,5 +108,15 @@ LAB-01-Jira-Service-Management/
 ├── 05-customer-service/
 │   └── TNC-001.md
 │
-└── 06-documentacao/
-    └── relatorio-final.md
+├── 06-documentacao/
+│   └── relatorio-final.md
+│
+├── 07-evidencias/
+│   ├── CLIENTES.png
+│   ├── ORGANIZAÇÕES.png
+│   ├── REGRAS SLAS.png
+│   ├── SLAS.png
+│   ├── TICKETS INCIDENTES.png
+│   └── TICKETS REQUISIÇÕES.png
+│
+└── README.md
